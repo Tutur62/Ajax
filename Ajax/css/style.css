@@ -1,0 +1,49 @@
+* {
+	font-family: Arial, Verdana, Sans-serif;
+}
+
+#boite {
+	width: 400px;
+}
+
+#texte {
+	display: block;
+	color: grey;
+	width: 400px;
+	height: 30px, border:solid grey 1px;
+	overflow: hidden;
+}
+
+#bouton {
+	display: block;
+	width: 100px;
+	margin-left: 300px;
+}
+
+#message {
+	width: 400px;
+	color:black;
+}
+
+.msg {
+	display: block;
+	color: grey;
+	width: 400px;
+	height: 30px, border:solid grey 1px;
+	overflow: hidden;
+}
+
+.fond {
+	background-color: skyblue;
+	width: 406px;
+}
+
+h6 {
+	margin: 0px;
+	text-align: center;
+}
+
+textarea {
+	resize: none;
+	color:black;
+}
